@@ -6,7 +6,7 @@ Description:
 StockGenie is a streamlined application that allows for traders with limited experience to easily access
 different technical indicators and analyze markets more efficiently. This application will provide the user
 with useful technical information and prioritize which indicators to keep track of. The application will
-also make it easier for the user to analyze stocks in over-looked markets and improve the user’s portfolio
+also make it easier for the user to analyze stocks in over-looked markets and improve the userâ€™s portfolio
 diversification. Additionally, the user will be able to create a custom portfolio to analyze potential gains.
 This app will not make direct recommendations to the user nor will it serve as a brokerage account.
 ######################################################################################################
@@ -21,7 +21,6 @@ pip install pandas
 pip install numpy
 pip install quandl
 pip install datetime
-pip install yahoo_fin
 pip install matplotlib.pyplot
 pip install ta
 pip install sklearn
