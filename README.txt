@@ -21,7 +21,6 @@ pip install pandas
 pip install numpy
 pip install quandl
 pip install datetime
-pip install matplotlib.pyplot
 pip install ta
 pip install sklearn
 
